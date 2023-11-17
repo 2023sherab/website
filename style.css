@@ -1,0 +1,93 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 50vh;
+}
+.card-body img{
+    min-width: 40%;
+    max-height: 200px;
+}
+#button{
+    display: flex;
+    margin: auto;
+}
+.logo{
+    width: 18%;
+    height: 17vh;
+}
+body{
+    text-align: justify;
+}
+#image{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+#importance{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+#types{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+#merits{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+#demerits{
+    display: block;
+    margin: auto;
+    width: 65%;
+}
+#future-aspects{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+.data-manage{
+    display: block;
+    margin: auto;
+}
+.medical-safety{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.data-capture{
+    width: 66%;
+    margin: auto;
+    display: block;
+}
+.extra-img{
+    width: 66%;
+    margin: auto;
+    display: block;
+}
+.services{
+    background-color: lightblue;
+}
+.team{
+    background-color: lightskyblue;
+}
+
+.team .container{
+    height: 130vh;
+    padding: 6px;
+}
+#team img{
+    height: 27vh;
+}
+#height img{
+    height: 27vh;
+}
+.about{
+    background-color: lightsteelblue;
+}
